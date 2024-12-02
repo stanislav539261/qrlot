@@ -1,0 +1,6 @@
+[submodule "external/QXlsx"]
+	path = external/QXlsx
+	url = https://github.com/QtExcel/QXlsx
+[submodule "external/QZXing"]
+	path = external/QZXing
+	url = https://github.com/ftylitak/qzxing
